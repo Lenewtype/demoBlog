@@ -1,0 +1,9 @@
+.author-details label {
+	font-weight: bold;
+}
+
+.author-details {
+	font-size: 13px;
+	display: flex;
+	justify-content: space-between
+}
